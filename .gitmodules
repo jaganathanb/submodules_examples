@@ -1,0 +1,3 @@
+[submodule "plugins/submodule_one"]
+	path = plugins/submodule_one
+	url = https://github.com/jaganathanb/submodule_one.git
